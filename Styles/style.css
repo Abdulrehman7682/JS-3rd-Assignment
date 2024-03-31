@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+wid1{
+    max-width: 48%;
+}
+wid2{
+    max-width: 48%;
+}
+main div#output{
+   min-height: 150px;
+}
